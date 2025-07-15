@@ -1,5 +1,5 @@
 Order Date,Region,Category,Sub-Category,Sales,Quantity,Profit,Customer Name,Order ID,Product ID,Discount,Place,Shipping Cost,Delivery Status
-2022-10-11,Central,Furniture,Chairs,961.54,7.0,,Jill Morgan,7dc9ea12,1a5188ac-2,0.2,Jacksonstad,7.18,Delivered
+2022-10-11,Central,Technology,Chairs,961.54,7.0,,Jill Morgan,7dc9ea12,1a5188ac-2,0.2,Jacksonstad,7.18,Delivered
 2024-09-16,South,Technology,Accessories,383.71,6.0,19.81,Nathan Long,6f7a2837,b916c1d4-5,0.0,East Denise,43.77,Delivered
 2023-01-23,South,Office Supplies,Paper,,5.0,-0.89,Tiffany Garrett,b095d553,c22e6cb8-f,0.0,Thompsonberg,23.89,In Transit
 2024-10-06,Central,Furniture,Chairs,874.46,5.0,-67.59,Dennis Brock,2bb37eb1,abe6a107-3,0.2,Millerbury,9.04,Delivered
